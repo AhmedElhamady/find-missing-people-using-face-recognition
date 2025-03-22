@@ -33,6 +33,14 @@ The way this system works is when a person goes missing, his family can search f
 - Python
 - Flask
 
+## Authors - Team
+
+- Ahmed Soliman
+- Ahmed Fawzi
+- Ziad Refaat
+- Elshazly Mohamed
+- Salah Kamal
+
 #### Screenshots
 
 <img src="screenshots/Picture14.png"/>
